@@ -10,7 +10,8 @@ public class CinemaRoyal {
    soma = 0;
    for(i=1; i<=300; i++){ 
        Scanner s=new Scanner(System.in);
-               
+        System.out.println("Bem vindo ao Cinema Royal ");  
+        System.out.println("  ");
        System.out.println("Informe a idade do usuário "+i);
         idade=s.nextInt();
 
