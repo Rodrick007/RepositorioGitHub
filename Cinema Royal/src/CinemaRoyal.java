@@ -14,7 +14,8 @@ public class CinemaRoyal {
             System.out.println("Bem vindo ao Cinema Royal ");
             
             System.out.println(" Hoje com promoção de pipoca!!!! ");
-
+            System.out.println(" Venha conferir "); 
+            
             System.out.println("  ");
             System.out.println("Informe a idade do usuário " + i);
             idade = s.nextInt();
