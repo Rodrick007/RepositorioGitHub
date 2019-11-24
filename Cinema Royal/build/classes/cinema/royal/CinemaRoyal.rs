@@ -1,0 +1,2 @@
+CinemaRoyal
+cinemaroyal.CinemaRoyal
