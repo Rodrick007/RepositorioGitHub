@@ -56,6 +56,8 @@ public class CinemaRoyal {
         System.out.println("A quantidade de usuários é " + qt);
         System.out.println("A soma das idades é " + soma);
         System.out.println("A média das idades é " + mediaid);
+        
+        System.out.println("Obrigado pela preferência ");
 
     }
 }
